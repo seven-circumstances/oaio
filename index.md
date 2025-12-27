@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Thingking Machine
+title: Seven Circumstances
 ---
 # Seven Circumstances
 
